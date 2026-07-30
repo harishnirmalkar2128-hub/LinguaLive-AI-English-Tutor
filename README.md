@@ -38,5 +38,3 @@ All credit for the original design, voice architecture, and concept belongs to *
 ## 📜 License
 Educational and practice fork. Refer to the original repository for licensing details.
 
-
-## 🏗️ System Logic & Workflow
