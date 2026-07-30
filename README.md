@@ -23,18 +23,13 @@ An AI-powered web application that helps users improve their English speaking sk
 * **Platform:** Web Application
 
 ---
-## 🙏 Credits & Original Author
 
-This repository is a **fork** created for learning, testing, and exploring the codebase.
+## 🙏 Credits & Disclaimer
+
+This repository is an **educational fork** created solely for learning, testing, and self-practice purposes.
 
 * **Original Author:** [Yogita Sinha](https://github.com/yogita-sinha/) 🌟
 * **Original Repository:** [yogita-sinha/TalkWithLumi](https://github.com/yogita-sinha/TalkWithLumi)
 * **LinkedIn:** [Yogita Sinha on LinkedIn](https://www.linkedin.com/in/yogita-sinha-602b513b6/)
 
-All credit for the original design, voice architecture, and concept belongs to **Yogita Sinha**.
-
----
-
-## 📜 License
-Educational and practice fork. Refer to the original repository for licensing details.
-
+> **Note:** I do not claim ownership of the original concept, design, or code. All credit and original rights belong entirely to **Yogita Sinha**. For licensing terms, please refer to the original repository.
